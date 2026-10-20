@@ -26,3 +26,34 @@ Todo el contenido textual está en **Lorem Ipsum** o títulos de ejemplo, listo 
 git clone https://github.com/tu-usuario/nombre-del-repo.git
 ```
 
+---
+
+# English Version
+
+# Interactive Web Template
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+
+A modern web template with HTML, CSS and JavaScript, ideal for landing pages, sample projects or interactive demos.
+
+## Description
+
+This template includes:
+
+- Navigation between sections (`HOME`, `Section 1`, `Section 2`, `CONTACT`).
+- Floating particle animations.
+- Interactive color explosion when clicking the main image.
+- Contact form with a confetti effect and a submission message.
+- Interactive search that works regardless of uppercase, lowercase or accents.
+- Scroll effects and smooth transitions.
+
+All text content is **Lorem Ipsum** or sample titles, ready to be customized for your project.
+
+## Usage
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/tu-usuario/nombre-del-repo.git
+```
